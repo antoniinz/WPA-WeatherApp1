@@ -31,7 +31,6 @@ This is a simple weather application that allows users to search for a city and 
 
 ## Customization
 - To change the API key, edit the constant in `script.js`.
-- You can modify the default city inside the JavaScript file if needed.
 
 ## Notes
 - Internet connection is required to fetch weather data.
